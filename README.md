@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pkyriakou23
-- 🌱 I’m currently studying at Aristotle University of Thessaloniki
+- 🏫 I’m currently studying at Aristotle University of Thessaloniki
 - 👨‍💻 Psycho about usability and functionality!
 - 🖨 The printers scare me!
