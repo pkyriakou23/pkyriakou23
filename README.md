@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pkyriakou23
-- 🏫 I studied computer science at Aristotle University of Thessaloniki
-- I am currently working as software engineer
+- 🏫 I studied computer science at the Aristotle University of Thessaloniki.
+- 💻 I am currently working as a software engineer!
 - 👨‍💻 Psycho about usability and functionality!
 - 🖨 The printers scare me!
